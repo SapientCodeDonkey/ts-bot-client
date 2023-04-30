@@ -1,0 +1,21 @@
+
+
+==================================================================================================================================
+
+2023-04-29 20:31:31.942123|INFO    |              |   |TeamSpeak Client 3.5.6 (2020-11-25 13:53:42)
+2023-04-29 20:31:31.943002|INFO    |              |   |SystemInformation: Linux 5.19.0-23-generic #24-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct 14 15:39:57 UTC 2022 x86_64 Binary: 64bit
+2023-04-29 20:31:31.943437|INFO    |              |   |Using hardware aes
+2023-04-29 20:31:32.492448|ERROR   |SoundBckndIntf|   |/teamspeak/teamspeak/soundbackends/libpulseaudio_linux_amd64.so error: NOT_CONNECTED
+2023-04-29 20:31:32.997810|ERROR   |SoundBckndIntf|   |/teamspeak/teamspeak/soundbackends/libpulseaudio_linux_amd64.so error: NOT_CONNECTED
+2023-04-29 20:31:33.006398|INFO    |ClientUI      |   |OpenGL Info: LibGL, Vendor: Mesa/X.org, Renderer: llvmpipe (LLVM 15.0.2, 256 bits), Version: 4.5 (Compatibility Profile) Mesa 22.2.5
+2023-04-29 20:31:33.007794|ERROR   |RevocationListCache|   |Failed to import revocation list from cache
+2023-04-29 20:31:33.053248|INFO    |Addons        |   |Checking for addon updates...
+2023-04-29 20:31:33.070666|INFO    |              |   |successfully downloaded revocation list for accounting
+2023-04-29 20:31:33.113919|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2023-04-29 20:31:33.164826|INFO    |SyncImpl      |   |Creating default config in local storage
+2023-04-29 20:31:33.231507|INFO    |Addon         |   |Not available for this platform.
+2023-04-29 20:31:33.319608|INFO    |              |   |*** Time [MAINWINDOW]: 303
+2023-04-29 20:31:33.320020|INFO    |              |   |*** Time [INIT]: 303
+2023-04-29 20:31:33.322209|INFO    |ClientUI      |   |Failed to init text to speech engine
+2023-04-29 20:31:33.322625|INFO    |ClientUI      |   |Qt version: 5.12.1
+2023-04-29 20:31:33.322836|INFO    |ClientUI      |   |Using configuration location: /root/.ts3client/settings.db

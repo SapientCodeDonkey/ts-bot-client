@@ -1,0 +1,34 @@
+
+
+==================================================================================================================================
+
+2023-04-29 20:31:45.550950|INFO    |              |   |TeamSpeak Client 3.5.6 (2020-11-25 13:53:42)
+2023-04-29 20:31:45.551607|INFO    |              |   |SystemInformation: Linux 5.19.0-23-generic #24-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct 14 15:39:57 UTC 2022 x86_64 Binary: 64bit
+2023-04-29 20:31:45.552207|INFO    |              |   |Using hardware aes
+2023-04-29 20:31:46.103357|ERROR   |SoundBckndIntf|   |/teamspeak/teamspeak/soundbackends/libpulseaudio_linux_amd64.so error: NOT_CONNECTED
+2023-04-29 20:31:46.608647|ERROR   |SoundBckndIntf|   |/teamspeak/teamspeak/soundbackends/libpulseaudio_linux_amd64.so error: NOT_CONNECTED
+2023-04-29 20:31:46.616624|INFO    |ClientUI      |   |OpenGL Info: LibGL, Vendor: Mesa/X.org, Renderer: llvmpipe (LLVM 15.0.2, 256 bits), Version: 4.5 (Compatibility Profile) Mesa 22.2.5
+2023-04-29 20:31:46.617779|ERROR   |RevocationListCache|   |Failed to import revocation list from cache
+2023-04-29 20:31:46.656478|INFO    |Addons        |   |Checking for addon updates...
+2023-04-29 20:31:46.677553|INFO    |              |   |successfully downloaded revocation list for accounting
+2023-04-29 20:31:46.700730|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2023-04-29 20:31:46.728526|INFO    |SyncImpl      |   |Creating default config in local storage
+2023-04-29 20:31:46.820714|INFO    |              |   |*** Time [MAINWINDOW]: 234
+2023-04-29 20:31:46.821028|INFO    |              |   |*** Time [INIT]: 234
+2023-04-29 20:31:46.822885|INFO    |ClientUI      |   |Failed to init text to speech engine
+2023-04-29 20:31:46.823259|INFO    |ClientUI      |   |Qt version: 5.12.1
+2023-04-29 20:31:46.823424|INFO    |ClientUI      |   |Using configuration location: /root/.ts3client/settings.db
+2023-04-29 20:31:47.321084|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-04-29 20:31:47.321857|INFO    |ClientUI      |   |Last update check was: Never
+2023-04-29 20:31:47.328946|INFO    |Update        |   |Checking for updates...
+2023-04-29 20:31:47.339398|INFO    |Integrations  |   |Requesting integration icon download from https://ts3services.teamspeak.com/integration_icons/twitch/twitch.svg
+2023-04-29 20:31:47.539134|INFO    |Update        |   |License update available; version 0 to 5 (min version 0 to 4)
+2023-04-29 20:31:47.546713|INFO    |LicenseViewer |   |View license: version=5, language=C, require accept=1
+2023-04-29 20:31:47.547405|INFO    |LicenseViewer |   |Requesting remote license for version 5 and language C
+2023-04-29 20:31:47.737549|INFO    |LicenseViewer |   |Failed to download license file for version 5 and language C, retrying english fallback
+2023-04-29 20:31:47.738014|INFO    |LicenseViewer |   |Requesting remote license for version 5 and language en
+2023-04-29 20:31:47.821514|INFO    |Newsticker    |   |Newsticker language change detected
+2023-04-29 20:31:47.822176|INFO    |Newsticker    |   |Newsticker next check: 
+2023-04-29 20:31:47.986681|INFO    |LicenseViewer |   |Downloaded license file for version 5 and language en
+2023-04-29 20:31:48.016094|INFO    |Newsticker    |   |Newsticker not found for language C
+2023-04-29 20:31:48.223371|INFO    |Newsticker    |   |Newsticker received for language C, expires on Sun Apr 30 20:31:48 2023 GMT, next check in 86399 seconds
